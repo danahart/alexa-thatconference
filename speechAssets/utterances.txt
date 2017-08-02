@@ -1,0 +1,3 @@
+WelcomeIntent    Greet the campers
+WelcomeIntent    Welcome the campers
+WelcomeIntent    Say hi to the campers

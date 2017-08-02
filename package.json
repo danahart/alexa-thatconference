@@ -1,0 +1,22 @@
+{
+  "name": "alexa-thatconference",
+  "version": "1.0.0",
+  "description": "Alexa skill to welcome the That Conference campers",
+  "main": "index.js",
+  "keywords": [
+    "alexa",
+    "thatconference",
+    "welcome",
+    "node"
+  ],
+  "author": "Dana Hart",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11",
+    "config": "^1.26.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-aws-lambda": "^0.13.0"
+  }
+}
